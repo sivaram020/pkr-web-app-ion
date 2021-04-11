@@ -24,7 +24,7 @@
   "provisioners": [
     {
   "type":"shell",
-    "script": "./buildcustomami.sh"
+    "script": "./build-customAMI.sh"
     }
   ]
 }
